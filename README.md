@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sweetykumari007/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/sweetykumari007/Leetcode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/sweetykumari007/Leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/sweetykumari007/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sweetykumari007/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0704-binary-search](https://github.com/sweetykumari007/Leetcode/tree/master/0704-binary-search) |
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sweetykumari007/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/sweetykumari007/Leetcode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sweetykumari007/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/sweetykumari007/Leetcode/tree/master/0912-sort-an-array) |
 ## Sorting
@@ -57,4 +59,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sweetykumari007/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sweetykumari007/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
