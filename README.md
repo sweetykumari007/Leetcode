@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/sweetykumari007/Leetcode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/sweetykumari007/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sweetykumari007/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0704-binary-search](https://github.com/sweetykumari007/Leetcode/tree/master/0704-binary-search) |
@@ -43,6 +44,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/sweetykumari007/Leetcode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/sweetykumari007/Leetcode/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
